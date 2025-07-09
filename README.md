@@ -42,7 +42,7 @@ I learnt about 3D modelling more, as I made the cars and trucks in blender. I le
 
 ### Overview of game 
 
-![Quasar Quest Showcase](Ball%20Hop%20Scripts/showcase_images/ball%20hop%20showcase.png)
+![Quasar Quest Showcase](Quasar%20Quest/showcase%20images/Quasar%20Quest%20showcase.png)
 
 Quasar Quest was my A Level Computer Science project (I made it completely unaided), it was largely inspired by Jesting Jetpacker which I had made a few years prior. However as this was to be examined I had to document the whole process following the specification, with the documentation being over 300 pages long, and add clear comments throughout, I also had to focus on my studies throughout slowing progress significantly.
 
